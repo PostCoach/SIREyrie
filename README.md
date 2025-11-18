@@ -1,6 +1,8 @@
 # SIREyrie
 personal profile repository
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 ## 🔧 Aktuell arbeite ich an ...
 - 🕹️ Einem Pokémon-ähnlichen Pixelart-Game in Godot
 - ☁️ Einem IT-Lernspiel mit Cloud-Komponenten
