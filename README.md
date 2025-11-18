@@ -14,32 +14,27 @@ Welcome to my profile. Find some facts about me here.
 
 ## 🔧 Some Techs and Tools I used and worked with
 
-<table>
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" /></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /></td>
-</tr>
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" /></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" /></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /></td>
-</tr>
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /></td>
-<td><img src="https://camo.githubusercontent.com/dcc0e55ebaa9077c645f41af61e3d78a6fffbdee387c15541a148a0e63cef556/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f737761676765722f737761676765722d6f726967696e616c2e737667" width="40" /></td>
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Audacity_Logo.svg" width="40" /></td>
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Boot_Logo.svg" width="40" /></td>
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/M5Stack_Logo.png" width="40" /></td>
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Axure_logo.png" width="40" /></td>
-<td><img src="[[https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_2013_logo.svg](https://www.pngaaa.com/detail/4905202)](https://www.ntuity.com/wp-content/uploads/2018/05/office-365-Online-icon.png)" width="40" /></td>
-</tr>
-</table>
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Axure](https://img.shields.io/badge/Axure%20RP-8A2BE2?logo=axure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white)
+![MS Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white)
+![M5Stack](https://img.shields.io/badge/M5Stack-000000?logo=stackshare&logoColor=white)
+
+Techs without GitHub Badges:
+![JSON](https://img.shields.io/badge/JSON-000000?logoColor=white)
+![Audacity](https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
