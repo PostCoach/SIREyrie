@@ -10,7 +10,7 @@ Welcome to my profile. Find some facts about me here.
 - ☕ A website for a rustic café in the Emmental region
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PostCoach&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeinBenutzername&show_icons=true&theme=gruvbox&count_private=true&hide_title=false)
 
 ## 🔧 Some Techs and Tools I used and worked with
 
