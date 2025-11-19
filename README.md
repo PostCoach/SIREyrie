@@ -9,12 +9,11 @@ Welcome to my profile. Find some facts about me here.
 - 🕹️ A Pokémon-like pixel art game in Godot
 - ☕ A website for a rustic café in the Emmental region
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=PostCoach&theme=gruvbox&hide_border=false)
 
+## 📊 GitHub Trophy's
 ![trophy](https://github-profile-trophy.vercel.app/?username=PostCoach&theme=gruvbox&no-frame=true&column=4)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PostCoach&theme=gruvbox)
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
